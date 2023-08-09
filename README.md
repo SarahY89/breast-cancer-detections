@@ -8,8 +8,7 @@ The code is divided into sections:
 
 # BASIC EDA
 
-
-# DATA AUGUMENTATION
+ DATA AUGUMENTATION
 ![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/7f65a016-6f8c-4c85-bc73-165190c3101b)
 
 A graphical Representation of the breast cancer image.

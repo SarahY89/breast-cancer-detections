@@ -20,23 +20,26 @@ Data Augmentation will be performed on the cancerous image since we want to buil
 The image above shows detailed information on augmented MRI images of cancerous cells in the breast.
 This algorithm will help in getting a strong detection rate whenever in most critical cases we get images as such being captured by the MRI scans
 
-# CLASSIFICATION
+A pie chart illustrating the nature of the dataset after augmentation
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/54c4be6c-1586-41dd-8bd5-1d48e3b1038c)
+
+
+# Model Building
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/aeda938a-0d14-4162-9e6c-f459202b5dda)
+
+The cnn model being trained with 20 epoch 
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/01ad41a8-4c3c-4c4c-8e87-90ccc284fe15)
 
 
 # MODEL EVALUATION
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/63d243dd-048f-483c-ab5e-77f8089dcee5)
 
-
-# MODEL WITH LAYERS 
+after the model is being trained , the detection rate is given as 0.77 which is 77% not bad 
 
 
 # CONVOLUTIONAL MODEL WITH LAYERS
+MODEL WITH LAYERS 35
 
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/3a1a0c97-efa4-480a-9145-eade4a109398)
 
-# TRANSFERRED LEARNING (VGG 19)
-
-
-# VGG 19 MODEL EVALUATION
-
-
-# CONFUSION METRICS
 

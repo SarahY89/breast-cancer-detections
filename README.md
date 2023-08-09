@@ -1,4 +1,4 @@
-# breast-cancer-detections
+# BREAST CANCER DIESEASE EARLY DETECTION USING DEEP LEARNING 
 EARLY DETECTION OF BREAST CANCER USING CONVOLUTIONAL NEURAL NETWORK
 Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
 
@@ -6,21 +6,29 @@ The goal of this script is to identify IDC when it is present in otherwise unlab
 
 The code is divided into sections:
 
-BASIC EDA,
+# BASIC EDA
 
-DATA AUGUMENTATION,
 
-CLASSIFICATION,
+# DATA AUGUMENTATION
 
-MODEL EVALUATION,
 
-MODEL WITH LAYERS ,
+# CLASSIFICATION
 
-CONVOLUTIONAL MODEL WITH LAYERS,
 
-TRANSFERRED LEARNING (VGG 19),
+# MODEL EVALUATION
 
-VGG 19 MODEL EVALUATION,
 
-CONFUSION METRICS
+# MODEL WITH LAYERS 
+
+
+# CONVOLUTIONAL MODEL WITH LAYERS
+
+
+# TRANSFERRED LEARNING (VGG 19)
+
+
+# VGG 19 MODEL EVALUATION
+
+
+# CONFUSION METRICS
 

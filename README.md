@@ -10,7 +10,15 @@ The code is divided into sections:
 
 
 # DATA AUGUMENTATION
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/7f65a016-6f8c-4c85-bc73-165190c3101b)
 
+A graphical Representation of the breast cancer image.
+From the diagram the images recorded to be cancerous is 50.3% and the the non cancerous cell to be 49.7%
+Data Augmentation will be performed on the cancerous image since we want to build a modle which can easily detect cancerous cell in any form 
+![image](https://github.com/SarahY89/breast-cancer-detections/assets/92030964/39683234-0849-43b4-bc77-aca170ba352d)
+
+The image above shows detailed information on augmented MRI images of cancerous cells in the breast.
+This algorithm will help in getting a strong detection rate whenever in most critical cases we get images as such being captured by the MRI scans
 
 # CLASSIFICATION
 
